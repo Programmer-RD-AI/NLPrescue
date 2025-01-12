@@ -5,7 +5,7 @@ aiohttp==3.8.3
 aioitertools==0.7.1
 aiosignal==1.2.0
 aiosqlite==0.18.0
-alabaster==0.7.12
+alabaster==0.7.16
 anaconda-catalogs==0.2.0
 anaconda-client==1.11.3
 anaconda-navigator==2.4.2
